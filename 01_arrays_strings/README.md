@@ -7,9 +7,9 @@
 
 - [ ] `medium` &nbsp; the maximum subarray  
 sliding window problem, dynamic programming  
-watch video of someone going through it 
+❗️ watch a video of someone going through it 
 
-- [ ] `easy` &nbsp; making anagrams 
+- [ ] `easy` &nbsp; making anagrams   
 1 wrong answer — find corner case 
 
 - [ ] `medium` &nbsp; highest value palindrome
@@ -21,7 +21,8 @@ watch video of someone going through it
 
 ### `easy` &nbsp; [Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array) 
 
-Score: 10.00/10.00
+*Score:* 10.00/10.00  
+&nbsp;
 
 <details> 
 <summary>
@@ -94,9 +95,12 @@ public class Solution {
 
 <br>
 
+
+
 ### `easy` [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds) 
 
-Score: 10.00/10.00
+*Score:* 10.00/10.00  
+&nbsp;
 
 ```python
 #!/bin/python3
@@ -113,9 +117,12 @@ def reverseArray(a):
 
 <br>
 
+
+
 ### `easy` &nbsp; [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation)
 
-Score: 20.00/20.00
+*Score:* 20.00/20.00  
+&nbsp;
 
 ```python
 #!/bin/python3
@@ -133,9 +140,12 @@ def rotateLeft(d, arr):
 
 <br>
 
+
+
 ### `easy` &nbsp; [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)
 
-Score: 10.00/10.00
+*Score:* 10.00/10.00  
+&nbsp;
 
 ```python
 #!/bin/python3
@@ -157,9 +167,14 @@ def divisibleSumPairs(n, k, ar):
 
 <br>
 
+
+
+
+
 ### `easy` &nbsp; [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances)
 
-Score: 20.00/20.00
+*Score:* 20.00/20.00  
+&nbsp;
 
 ```python
 #!/bin/python3
@@ -190,9 +205,12 @@ def minimumDistances(a):
 
 <br>
 
+
+
 ### `easy` &nbsp; [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array)
 
-Score: 20.00/20.00
+*Score:* 20.00/20.00  
+&nbsp;
 
 ```python
 #!/bin/python3
@@ -215,11 +233,15 @@ def equalizeArray(arr):
 
 <br>
 
+
+
 ### `medium` &nbsp; [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray)
 
-Score: /50.00 
+*Score:* /50.00
 
-DP - Sliding Window
+DP - Sliding Window  
+
+&nbsp;
 
 ```
 
@@ -227,9 +249,12 @@ DP - Sliding Window
 
 <br>
 
+
+
 ### `easy` &nbsp; [CamelCase](https://www.hackerrank.com/challenges/camelcase)
 
-Score: 15.00/15.00
+*Score:* 15.00/15.00  
+&nbsp;
 
 ```python
 #!/bin/python3
@@ -247,9 +272,12 @@ def camelcase(s):
 
 <br>
 
+
+
 ### `easy` &nbsp; [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1)
 
-Score: 15.00/15.00
+*Score:* 15.00/15.00  
+&nbsp;
 
 ```python
 #!/bin/python3
@@ -278,9 +306,12 @@ def caesarCipher(s, k):
 
 <br>
 
+
+
 ### `easy` &nbsp; [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters)
 
-Score: 20.00/20.00
+*Score:* 20.00/20.00  
+&nbsp;
 
 ```python
 #!/bin/python3
@@ -299,9 +330,12 @@ def alternatingCharacters(s):
 
 <br>
 
+
+
 ### `easy` &nbsp; [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string)
 
-Score: 20.00/20.00
+*Score:* 20.00/20.00  
+&nbsp;
 
 ```python
 #!/bin/python3
@@ -338,11 +372,15 @@ def hackerrankInString(s):
 
 <br>
 
+
+
 ### `easy` &nbsp; [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams)
 
-Score: 27.86/30.00 
+*Score:* 27.86/30.00
 
 **1 Wrong Answer**
+
+&nbsp;
 
 ```python
 #!/bin/python3
@@ -384,9 +422,12 @@ def makingAnagrams(s1, s2):
 
 <br>
 
+
+
 ### `easy` &nbsp; [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery)
 
-Score: 20.00/20.00
+*Score:* 20.00/20.00  
+&nbsp;
 
 ```python
 #!/bin/python3
@@ -423,9 +464,12 @@ def theLoveLetterMystery(s):
 
 <br>
 
+
+
 ### `easy` &nbsp; [String Construction](https://www.hackerrank.com/challenges/string-construction)
 
-Score: 25.00/25.00
+*Score:* 25.00/25.00  
+&nbsp;
 
 ```python
 #!/bin/python3
@@ -443,11 +487,15 @@ def stringConstruction(s):
 
 <br>
 
+
+
 ### `medium` &nbsp; [Highest Value Palindrome](https://www.hackerrank.com/challenges/richie-rich)
 
-Score: /30.00 
+*Score:* /30.00
 
 Rip
+
+&nbsp;
 
 ```
 
