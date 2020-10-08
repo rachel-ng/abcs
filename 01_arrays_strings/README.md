@@ -165,9 +165,31 @@ def divisibleSumPairs(n, k, ar):
     return total
 ```
 
+&nbsp;
+
+<details> 
+<summary>list comprehension ver</summary>
+
 <br>
 
+```python 
+#!/bin/python3
 
+import math
+import os
+import random
+import re
+import sys
+from functools import reduce
+
+def divisibleSumPairs(n, k, ar):
+    return reduce(lambda x,y:x+y,[1 for i in range(n) for j in range(i+1,n) if (ar[i]+ar[j])%k == 0])
+```
+
+</details>
+
+
+<br>
 
 
 
