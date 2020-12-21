@@ -1,37 +1,15 @@
-# Unit 
+# Linked Lists 
 
+### 🌟 `easy` &nbsp; [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/)
 
-<br>
+### `easy` &nbsp; [Insert a node at a specific position in a linked list](https://www.hackerrank.com/challenges/)
 
+### `easy` &nbsp; [Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/)
 
+### `easy` &nbsp; [Merge two sorted linked lists](https://www.hackerrank.com/challenges/)
 
-### `easy` &nbsp; [Name](https://www.hackerrank.com/challenges/)
+### `easy` &nbsp; [Delete duplicate-value nodes from a sorted linked list](https://www.hackerrank.com/challenges/)
 
-**Score:** /XX.00  
-&nbsp;
+### 🌟 `easy` &nbsp; [Reverse a doubly linked list](https://www.hackerrank.com/challenges/)
 
-```python
-```
-
-<br>
-
-
-
-
-### `medium` &nbsp; [Name](https://www.hackerrank.com/challenges/)
-
-**Score:** /XX.00
-
-
-&nbsp;
-
-```
-
-```
-
-<br>
-
-
-
-
-
+### `medium` &nbsp; [Cycle Detection](https://www.hackerrank.com/challenges/)
