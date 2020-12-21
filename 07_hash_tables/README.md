@@ -1,37 +1,13 @@
-# Unit 
+# Hash Tables 
 
+### 🌟 `easy` &nbsp; [Remove Duplicates](https://www.hackerrank.com/challenges/)
 
-<br>
+### 🌟 `medium` &nbsp; [4 sum to zero](https://www.hackerrank.com/challenges/)
 
+### `medium` &nbsp; [k most frequent words in a string](https://www.hackerrank.com/challenges/)
 
+### `easy` &nbsp; [Two Strings](https://www.hackerrank.com/challenges/)
 
-### `easy` &nbsp; [Name](https://www.hackerrank.com/challenges/)
+### `easy` &nbsp; [Ice Cream Parlor](https://www.hackerrank.com/challenges/)
 
-**Score:** /XX.00  
-&nbsp;
-
-```python
-```
-
-<br>
-
-
-
-
-### `medium` &nbsp; [Name](https://www.hackerrank.com/challenges/)
-
-**Score:** /XX.00
-
-
-&nbsp;
-
-```
-
-```
-
-<br>
-
-
-
-
-
+### `medium` &nbsp; [Sherlock and Anagrams](https://www.hackerrank.com/challenges/)
