@@ -1,37 +1,11 @@
-# Unit 
+# Heaps  
 
+### `medium` &nbsp; [Is this array a heap?](https://www.hackerrank.com/challenges/)
 
-<br>
+### `easy` &nbsp; [QHEAP1](https://www.hackerrank.com/challenges/)
 
+### 🌟 `easy` &nbsp; [Jesse and Cookies](https://www.hackerrank.com/challenges/)
 
+### 🌟 `hard` &nbsp; [Find the Running Median](https://www.hackerrank.com/challenges/)
 
-### `easy` &nbsp; [Name](https://www.hackerrank.com/challenges/)
-
-**Score:** /XX.00  
-&nbsp;
-
-```python
-```
-
-<br>
-
-
-
-
-### `medium` &nbsp; [Name](https://www.hackerrank.com/challenges/)
-
-**Score:** /XX.00
-
-
-&nbsp;
-
-```
-
-```
-
-<br>
-
-
-
-
-
+### `hard` &nbsp; [Minimum Average Waiting Time](https://www.hackerrank.com/challenges/)
