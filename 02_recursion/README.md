@@ -1,37 +1,13 @@
 # Recursion 
 
+### 🌟 `medium` &nbsp; [Store the candy](https://www.hackerrank.com/challenges/)
 
-<br>
+### `medium` &nbsp; [Reduce to one](https://www.hackerrank.com/challenges/)
 
+### `medium` &nbsp; [The Power Sum](https://www.hackerrank.com/challenges/)
 
+### `medium` &nbsp; [Recursive Digit Sum](https://www.hackerrank.com/challenges/)
 
-### `easy` &nbsp; [Name](https://www.hackerrank.com/challenges/)
+### `medium` &nbsp; [Password Cracker](https://www.hackerrank.com/challenges/)
 
-**Score:** /XX.00  
-&nbsp;
-
-```python
-```
-
-<br>
-
-
-
-
-### `medium` &nbsp; [Name](https://www.hackerrank.com/challenges/)
-
-**Score:** /XX.00
-
-
-&nbsp;
-
-```
-
-```
-
-<br>
-
-
-
-
-
+### 🌟 `medium` &nbsp; [numPaths in a MxN grid](https://www.hackerrank.com/challenges/) 
