@@ -1,4 +1,4 @@
-# Recursion 
+# Arrays and Strings  
 
 ### 🌟 `easy` &nbsp; [Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array) 
 
